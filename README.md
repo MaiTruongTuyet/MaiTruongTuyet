@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Trương Thị Tuyết Mai</h1>
+<h1 align="center">Hi there 👋, I'm Jenna Truong</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Excel" alt="Typing SVG" />
